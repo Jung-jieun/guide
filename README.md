@@ -16,3 +16,10 @@
    - Linear Regression, Ridge, Lasso , 회귀트리, 스태킹
    - CV를 적용하며 Lasso 모델의 최적의 alpha 값을 찾음
    - 이상치 제거
+  
+ 분류실습
+  - 캐글 Santander Customer Satisfaction
+  - 고객 만족 여부 예측(1:불만, 0:만족)
+  - ROC-AUC
+  - XGBoost, LightGBM
+  - CV 및 하이퍼파라미터 튜닝
